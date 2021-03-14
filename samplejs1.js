@@ -20,7 +20,7 @@
 
 	{
 
-	alert("Welcome to my WebPage!!!");
+	alert("Welcome to my  newly created WebPage!!!");
 
 	}
 
@@ -34,11 +34,11 @@
 
 	{
 
-	     font-size:50px;
+	     font-size:30px;
 
 	     position: fixed;
 
-	     left: 550px;
+	     left: 350px;
 
 	     top: 300px;
 
