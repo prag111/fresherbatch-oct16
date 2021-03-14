@@ -8,3 +8,5 @@ Working in git done by various commands
 =======
 This is made for practice in git bash and github 
 >>>>>>> css-assignment
+
+some changes are made to README.txt file while solving javascript part of asssignment.
